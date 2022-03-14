@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(180, 245, 207);
+}
+.head {
+  text-align: center;
+  font-size: 37px;
+  margin-top: 20px;
+}
+.design {
+  display: flex;
+  flex-wrap: wrap;
+}
+.design > div {
+  height: 200px;
+  width: 21%;
+  padding: 20px 25px;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dv2 {
+  background-color: burlywood;
+}
+.dv3 {
+  background-color: darkslateblue;
+}
+.dv4 {
+  background-color: darkblue;
+}
+.dv5 {
+  background-color: white;
+}
+.dv6 {
+  background-color: darksalmon;
+}
+.dv7 {
+  background-color: white;
+}
+.rbt {
+  height: 200px;
+}
+.dv:hover {
+  background-color: yellow;
+}
